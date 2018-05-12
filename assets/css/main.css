@@ -2061,6 +2061,7 @@
 
 		#logo .image {
 			position: absolute;
+			image-orientation: -90deg;
 			left: 0;
 			top: 0;
 		}
